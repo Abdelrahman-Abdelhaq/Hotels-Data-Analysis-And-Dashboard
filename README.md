@@ -1,4 +1,4 @@
-🔍 Project Highlights:
+Project Highlights:
 
 Data Cleaning & Preprocessing: Handling missing values, data type conversion, and date parsing.
 Exploratory Data Analysis (EDA): Uncovered booking trends, price analysis, and user patterns.
